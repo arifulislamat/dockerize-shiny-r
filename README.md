@@ -14,8 +14,7 @@ This guide will walk you through the steps to build and run the Shiny web applic
 1. **Clone the Repository**: Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/arifulislamat/dockerize-shiny-r.git
-   cd dockerize-shiny-r
+   git clone https://github.com/arifulislamat/dockerize-shiny-r.git && cd dockerize-shiny-r
    ```
 
 2. **Build the Docker Image:** Build the Docker image using the provided Dockerfile
